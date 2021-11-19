@@ -13,7 +13,7 @@
 | [8](Task-8) | JSExplorer | Completed |
 | [9](Task-9) | Setup a Simple Personal Website | Completed |
 | [10](Task-10) | CS50 | Almost |
-| [11](Task-11) | Poster Design | Completed |
+| [11](task-11) | Poster Design | Completed |
 | [12]() | Make the Block | Pending |
 | [13]() | Circuit Design | Pending |
 | [14](Task-14) | Bandit | Completed |
