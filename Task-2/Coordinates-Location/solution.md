@@ -1,4 +1,4 @@
-Terminal Command
+# Terminal Command
 mkdir Coordinates-Location
 cd Coordinates-Location
 mkdir North
@@ -42,3 +42,4 @@ git init
 git add .
 git commit -m Mygit remote add origin https://github.com/rishuriya/amfoss-tasks.git
 git push -u origin master
+![1635659374rishav_a2z Screenshot_20211025-001255_Maps](https://user-images.githubusercontent.com/85174423/142621931-49ecb7ce-5a44-4fc6-8dd9-0b7b92dbc034.jpg)
