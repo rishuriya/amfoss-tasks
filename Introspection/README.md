@@ -10,4 +10,4 @@ Since Class start, i planned to focus on my class to get good CGPA to jump in CS
 As i told you before, I will Do my work honestly and activily participate in club. I will do all effort to complete my work which are given to me.
 
 ## Do you have any feedback for the selection process?
-Selection process is very good but i Have one suggestion/feedback. It is better to regularly check our completed task by mentors of every planet, from doing this help us to know that our solution is correct or not if not then we can try to make it. This help participant to make sure that there is as of amFOSS want and keep student out of dilemma. Well I must say "the task are really challenging) 
+Selection process is very good but i Have one suggestion/feedback. It is better to regularly check our completed task by mentors of every planet, from doing this help us to know that our solution is correct or not if not then we can try to make it. This help participant to make sure that there is as of amFOSS want and keep student out of dilemma. Well I must say "the task are really challenging.
