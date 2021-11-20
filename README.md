@@ -2,7 +2,7 @@
 ### My Task Status
 |Task No.| Task Title | Status  |
 |:-:| :---:   | :-: |
-| [0]() | Install Ubuntu 20.04 [Desktop] | Completed |
+| [0](Task-0) | Install Ubuntu 20.04 [Desktop] | Completed |
 |[1](Task-1) |  Star all the amFOSS repositories | Completed |
 | [2](Task-2) | Begin your journey with Linux and Git | Completed |
 | [3]() | Programming | Pending |
