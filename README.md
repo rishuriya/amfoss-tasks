@@ -15,7 +15,7 @@
 | [10](Task-10) | CS50 | Almost |
 | [11](task-11) | Poster Design | Completed |
 | [12]() | Make the Block | Pending |
-| [13](Task-13) | Circuit Design | Pending |
+| [13](Task-13) | Circuit Design | Completed |
 | [14](Task-14) | Bandit | Completed |
 | [15]() | Project Euler | Pending |
 
