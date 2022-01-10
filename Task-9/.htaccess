@@ -1,4 +1,0 @@
-#this is 404 error page to show
-
-
-ErrorDocument 404 http://localhost/stmary/404.php
